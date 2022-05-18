@@ -1,5 +1,5 @@
 <h1 align="center">Organ Meat Store</h1>
-<h3 align="center">A Full Stack Java Spring MVC Framework E-commerce Web Application</h3>
+<h3 align="center">A Full Stack Java, Spring MVC Framework, E-commerce Web Application</h3>
 
 
 <h3 align="left">Motivation and What Problem This App Solves</h3>
