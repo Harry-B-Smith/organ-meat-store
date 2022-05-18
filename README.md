@@ -21,6 +21,6 @@ The app uses the Spring MVC framework and Hibernate (JPA/JDBC) to initialize CRU
 
 <h3 align="left">Challenges</h3>
 I so often got stuck just trying to connect to the database with Hibernate and Spring, but once I got those working, the rest of the project was easy. 
-<br>
+<br><br>
 I had a lot of problems conneting the backend to the frontend, and plan to practice with this more as I develop my skills. 
  
