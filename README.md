@@ -14,6 +14,7 @@ I mainly learned how to build web applications using the Spring MVC framework.
 <h3 align="left">Why This Project Stands Out</h3>
 This project stands out because it has a very attractive frontend design, but a lot of the features still need to be connected to the backend. 
 
+<h3 align="left">Technologies Used</h3>
 This project is a full stack e-commerce web app with Java on the backend and HTML, CSS, and javascript on the frontend. 
 
 The app uses the Spring MVC framework and Hibernate (JPA/JDBC) to initialize CRUD (create, read, update, delete) operations on a mySQL database. These technologies were used because it was a requirement of my final project in my bootcamp. 
