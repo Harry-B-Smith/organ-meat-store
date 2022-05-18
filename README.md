@@ -16,11 +16,11 @@ This project stands out because it has a very attractive frontend design, but a 
 
 <h3 align="left">Technologies Used</h3>
 This project is a full stack e-commerce web app with Java on the backend and HTML, CSS, and javascript on the frontend. 
-
+<br>
 The app uses the Spring MVC framework and Hibernate (JPA/JDBC) to initialize CRUD (create, read, update, delete) operations on a mySQL database. These technologies were used because it was a requirement of my final project in my bootcamp. 
 
 <h3 align="left">Challenges</h3>
 I so often got stuck just trying to connect to the database with Hibernate and Spring, but once I got those working, the rest of the project was easy. 
-
+<br>
 I had a lot of problems conneting the backend to the frontend, and plan to practice with this more as I develop my skills. 
  
