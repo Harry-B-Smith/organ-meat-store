@@ -1,6 +1,7 @@
 <h1 align="center">Organ Meat Store</h1>
 <h3 align="center">A Full Stack Java, Spring MVC Framework, E-commerce Web Application</h3>
 
+<a href="https://docs.google.com/presentation/d/1cs9mSo9MEVyy1vJH4kPG_TBWx6pZ6qp3IhlT3IGqXCY/edit?usp=sharing">Link to Portfolio Project Code Walkthrough and Explanation</a>
 
 <h3 align="left">Motivation and What Problem This App Solves</h3>
 Welcome to my Organ Meat Store readme. For the past 7 years, I'd been residing in Thailand. It was there where I found a love for eating organ meat. When I returned to the US, I found it difficult to find organ meat, so I created this e-commerce web application to bring healthy organ meats to the masses. 
