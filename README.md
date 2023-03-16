@@ -1,23 +1,35 @@
-<h1 align="center">Organ Meat Store</h1>
-<h3 align="center">A Full Stack Java, Spring MVC Framework, E-commerce Web Application</h3>
+Organ Meat Store
+Overview
+Welcome to my Organ Meat Store! This e-commerce web application was created to provide easy access to healthy organ meats, which can be difficult to find in some areas. As a lover of organ meat, I built this platform after struggling to find it myself upon returning to the US after living in Thailand for 7 years. The Organ Meat Store is a full-stack e-commerce web application that provides easy access to healthy organ meats.
 
-<a href="https://docs.google.com/presentation/d/1cs9mSo9MEVyy1vJH4kPG_TBWx6pZ6qp3IhlT3IGqXCY/edit?usp=sharing">Link to Portfolio Project Code Walkthrough and Explanation</a>
+Features
+The Organ Meat Store enables CRUD (create, read, update, delete) operations on a mySQL database, with a user-friendly interface. It also includes the following features:
 
-<h3 align="left">Motivation and What Problem This App Solves</h3>
-Welcome to my Organ Meat Store readme. For the past 7 years, I'd been residing in Thailand. It was there where I found a love for eating organ meat. When I returned to the US, I found it difficult to find organ meat, so I created this e-commerce web application to bring healthy organ meats to the masses. 
+User authentication and authorization
+Search functionality
+Responsive design for desktop and mobile devices
+Technologies Used
+Java
+Spring MVC
+Hibernate (JPA/JDBC)
+mySQL
+HTML
+CSS
+JavaScript
+Git
+Apache Tomcat
+Challenges Faced
+While building the Organ Meat Store, I faced several challenges, including:
 
-<h3 align="left">Reason for Building the Project</h3>
-I built this project to satisfy the end of course final project requirements of a Full Stack Java bootcamp. 
+Connecting the frontend to the backend
+Setting up and configuring the Hibernate framework
+Implementing certain features, such as search functionality and user authentication
+Improvements for Enterprise Deployment
+To make the Organ Meat Store more suitable for enterprise deployment, I suggest implementing the following changes:
 
-<h3 align="left">What I Learned</h3>
-I mainly learned how to build web applications using the Spring MVC framework. 
-
-<h3 align="left">Why This Project Stands Out</h3>
-This project stands out because it has a very attractive frontend design, but a lot of the features still need to be connected to the backend. 
-
-<h3 align="left">Technologies Used</h3>
-This project is a full stack e-commerce web app with Java on the backend and HTML, CSS, and javascript on the frontend. The app uses the Spring MVC framework and Hibernate (JPA/JDBC) to initialize CRUD (create, read, update, delete) operations on a mySQL database. These technologies were used because it was a requirement of my final project in my bootcamp. 
-
-<h3 align="left">Challenges</h3>
-I so often got stuck just trying to connect to the database with Hibernate and Spring, but once I got those working, the rest of the project was easy. I had a lot of problems conneting the backend to the frontend and plan to practice with this more as I develop my skills. 
- 
+Adding additional security measures, such as SSL encryption and input validation
+Optimizing the database structure and queries for improved performance and scalability
+Writing automated unit and integration tests to ensure the application functions correctly
+Creating comprehensive documentation, including user manuals, installation guides, and API documentation
+Conclusion
+The Organ Meat Store provides a platform to easily purchase healthy organ meats, which can be difficult to find in some areas. While building this project, I gained valuable experience in web development using Java, Spring MVC, Hibernate, and mySQL. To improve the project for enterprise deployment, I suggest adding additional security measures, optimizing the database structure and queries, writing automated tests, and creating comprehensive documentation.
