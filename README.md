@@ -5,7 +5,6 @@
   
   <h2>Features</h2>
   <ul>
-
     <li>Responsive design for desktop and mobile devices</li>
   </ul>
   
